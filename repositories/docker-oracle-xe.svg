@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="640" version="1.1" viewBox="0 0 338.67 169.33" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="e" x="-.18869" y="-.21788" width="1.3774" height="1.5719">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="d" x="-.18869" y="-.21788" width="1.3774" height="1.5719">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="c" x="-.18869" y="-.21788" width="1.3774" height="1.5719">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="b" x="-.18869" y="-.21788" width="1.3774" height="1.5719">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="a" x="-.18869" y="-.21788" width="1.3774" height="1.5719">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="p" x="-.1258" y="-.14526" width="1.2516" height="1.3813">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="o" x="-.094347" y="-.10894" width="1.1887" height="1.286">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="n" x="-.075478" y="-.087153" width="1.151" height="1.2288">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="m" x="-.062898" y="-.072628" width="1.1258" height="1.1906">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="l" x="-.053913" y="-.062252" width="1.1078" height="1.1634">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="k" x="-.047174" y="-.054471" width="1.0943" height="1.143">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="j" x="-.041932" y="-.048419" width="1.0839" height="1.1271">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="i" x="-.037739" y="-.043577" width="1.0755" height="1.1144">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="h" x="-.034308" y="-.039615" width="1.0686" height="1.104">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="g" x="-.031449" y="-.036314" width="1.0629" height="1.0953">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="f" x="-.028346" y="-.032731" width="1.0567" height="1.0859">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+ </defs>
+ <g>
+  <g transform="translate(1.3333e-5 5.2917)">
+   <path d="m338.67 180.02-169.33 73.324-169.33-73.324v-146.65l169.33-73.324 169.33 73.324z" fill="#e7050b" filter="url(#f)" stroke-width="5.765"/>
+   <path d="m321.96 172.79-152.63 66.09-152.63-66.09v-132.18l152.63-66.09 152.63 66.09z" fill="#e10f20" filter="url(#g)" stroke-width="5.1962"/>
+   <path d="m309.24 167.28-139.91 60.583-139.91-60.583v-121.17l139.91-60.583 139.91 60.583z" fill="#db1933" filter="url(#h)" stroke-width="4.7632"/>
+   <path d="m296.52 161.77-127.19 55.075-127.19-55.075v-110.15l127.19-55.075 127.19 55.075z" fill="#d42348" filter="url(#i)" stroke-width="4.3302"/>
+   <path d="m283.8 156.26-114.47 49.568-114.47-49.568v-99.136l114.47-49.568 114.47 49.568z" fill="#ce2d5c" filter="url(#j)" stroke-width="3.8972"/>
+   <path d="m271.09 150.76-101.75 44.06-101.75-44.06v-88.121l101.75-44.06 101.75 44.06z" fill="#c7356f" filter="url(#k)" stroke-width="3.4641"/>
+   <path d="m258.37 145.25-89.033 38.553-89.033-38.553v-77.105l89.033-38.553 89.033 38.553z" fill="#bb2d74" filter="url(#l)" stroke-width="3.0311"/>
+   <path d="m245.65 139.74-76.314 33.045-76.314-33.045v-66.09l76.314-33.045 76.314 33.045z" fill="#ae2376" filter="url(#m)" stroke-width="2.5981"/>
+   <path d="m232.93 134.23-63.595 27.538-63.595-27.538v-55.075l63.595-27.538 63.595 27.538z" fill="#a11979" filter="url(#n)" stroke-width="2.1651"/>
+   <path d="m220.21 128.73-50.876 22.03-50.876-22.03v-44.06l50.876-22.03 50.876 22.03z" fill="#930f7c" filter="url(#o)" stroke-width="1.7321"/>
+   <path d="m207.49 123.22-38.157 16.523-38.157-16.523v-33.045l38.157-16.523 38.157 16.523z" fill="#86057f" filter="url(#p)" stroke-width="1.299"/>
+  </g>
+  <g transform="matrix(1.1095 0 0 1.1095 -18.534 -7.7868)" stroke-width=".86602">
+   <g transform="translate(152.63 -66.09)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(76.314 -66.09)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(0 -66.09)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-76.314 -66.09)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-152.63 -66.09)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-114.47 -49.568)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-152.63 -33.045)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(114.47 -49.568)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(152.63 -33.045)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(38.157 -49.568)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-38.157 -49.568)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-76.314 -33.045)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-114.47 -16.523)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(0 -33.045)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-38.157 -16.523)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-76.314)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(76.314 -33.045)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(114.47 -16.523)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(38.157 -16.523)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+   <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+   <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+   <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+   <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   <g transform="translate(76.314)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(152.63)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-152.63)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-114.47 16.523)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(114.47 16.523)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(-152.63 33.045)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+   <g transform="translate(152.63 33.045)">
+    <path d="m194.77 117.71-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#e)"/>
+    <path d="m194.77 106.7-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#d)"/>
+    <path d="m194.77 95.682-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#c)"/>
+    <path d="m194.77 84.667-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#939692" filter="url(#b)"/>
+    <path d="m194.77 73.652-25.438 11.015-25.438-11.015v-22.03l25.438-11.015 25.438 11.015z" fill="#ea0001" filter="url(#a)"/>
+   </g>
+  </g>
+ </g>
+</svg>
