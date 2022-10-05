@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <rect class="st0" x="8" y="8" width="84" height="84" rx="8" ry="8" stroke-width=".41523"/>
+ <g transform="matrix(.4023 0 0 .4023 8 10.575)">
+  <path class="st1" d="m51.4 123.3 8.9 15.4c1.8 3.5 5.4 5.9 9.5 5.9h59.3l-12.3-21.3z"/>
+  <path class="st1" d="m157.2 123.4c0-2.1-0.6-4.1-1.7-5.8l-34.8-60.4c-1.8-3.4-5.3-5.7-9.4-5.7h-18.4l53.7 93 8.5-14.7c1.6-2.8 2.1-4 2.1-6.4z"/>
+  <polygon class="st1" points="60.2 108.1 108.1 108.1 84.2 66.6"/>
+ </g>
+ <style type="text/css">.st0{fill:#171717;}
+	.st1{fill:#13AFF0;}</style>
+</svg>
