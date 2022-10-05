@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="640" version="1.1" viewBox="0 0 338.67 169.33" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="k" x="-.02939" y="-.090709" width="1.0588" height="1.2381">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="j" x="-.015552" y="-.048" width="1.0311" height="1.126">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="i" x="-.0071935" y="-.0192" width="1.0144" height="1.0504">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="h" x="-.013384" y="-.032" width="1.0268" height="1.084">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="g" x="-.006692" y="-.016" width="1.0134" height="1.042">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="f" x="-.011746" y="-.024" width="1.0235" height="1.063">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="e" x="-.0062559" y="-.013714" width="1.0125" height="1.036">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="d" x="-.010466" y="-.0192" width="1.0209" height="1.0504">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="c" x="-.0058732" y="-.012" width="1.0117" height="1.0315">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="b" x="-.070144" y="-.36283" width="1.1403" height="1.9524">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <filter id="a" x="-.031981" y="-.12094" width="1.064" height="1.3175">
+   <feOffset dy="2" in="SourceAlpha" result="offA"/>
+   <feOffset dy="1" in="SourceAlpha" result="offB"/>
+   <feOffset dy="3" in="SourceAlpha" result="offC"/>
+   <feMorphology in="offC" radius="2" result="spreadC"/>
+   <feGaussianBlur in="offA" result="blurA" stdDeviation="1"/>
+   <comment/>
+   <feGaussianBlur in="offB" result="blurB" stdDeviation="2.5"/>
+   <comment/>
+   <feGaussianBlur in="spreadC" result="blurC" stdDeviation="0.5"/>
+   <comment/>
+   <feFlood flood-opacity=".14" result="opA"/>
+   <feFlood flood-opacity=".12" result="opB"/>
+   <feFlood flood-opacity=".2" result="opC"/>
+   <feComposite in="opA" in2="blurA" operator="in" result="shA"/>
+   <feComposite in="opB" in2="blurB" operator="in" result="shB"/>
+   <feComposite in="opC" in2="blurC" operator="in" result="shC"/>
+   <feMerge>
+    <feMergeNode in="shA"/>
+    <feMergeNode in="shB"/>
+    <feMergeNode in="shC"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+ </defs>
+ <g>
+  <path transform="scale(.26458)" d="m222.73-80a400 400 0 0 0-400 400 400 400 0 0 0 400 400 400 400 0 0 0 208.64-59.016 400 400 0 0 0 208.64 59.016 400 400 0 0 0 208.64-59.016 400 400 0 0 0 208.64 59.016 400 400 0 0 0 400-400 400 400 0 0 0-400-400 400 400 0 0 0-208.43 58.885 400 400 0 0 0-208.85-58.885 400 400 0 0 0-208.43 58.885 400 400 0 0 0-208.85-58.885z" fill="#ff2a7f" filter="url(#c)"/>
+  <path transform="scale(.26458)" d="m431.36 170a250 250 0 0 0-250 250 250 250 0 0 0 250 250 250 250 0 0 0 208.64-112.48 250 250 0 0 0 208.64 112.48 250 250 0 0 0 250-250 250 250 0 0 0-250-250 250 250 0 0 0-208.58 112.39 250 250 0 0 0-208.69-112.39z" fill="#ff2a7f" filter="url(#d)"/>
+  <path transform="scale(.26458)" d="m222.73-30a350 350 0 0 0-350 350 350 350 0 0 0 350 350 350 350 0 0 0 208.64-69.285 350 350 0 0 0 208.64 69.285 350 350 0 0 0 208.64-69.285 350 350 0 0 0 208.64 69.285 350 350 0 0 0 350-350 350 350 0 0 0-350-350 350 350 0 0 0-208.45 69.145 350 350 0 0 0-208.83-69.145 350 350 0 0 0-208.45 69.145 350 350 0 0 0-208.83-69.145z" fill="#f59" filter="url(#e)"/>
+  <path transform="scale(.26458)" d="m431.36 220a200 200 0 0 0-200 200 200 200 0 0 0 200 200 200 200 0 0 0 200-200 200 200 0 0 0-200-200zm417.27 0a200 200 0 0 0-200 200 200 200 0 0 0 200 200 200 200 0 0 0 200-200 200 200 0 0 0-200-200z" fill="#f59" filter="url(#f)"/>
+  <path transform="scale(.26458)" d="m222.73 20a300 300 0 0 0-300 300 300 300 0 0 0 300 300 300 300 0 0 0 208.64-84.668 300 300 0 0 0 208.64 84.668 300 300 0 0 0 208.64-84.67 300 300 0 0 0 208.64 84.67 300 300 0 0 0 300-300 300 300 0 0 0-300-300 300 300 0 0 0-208.52 84.555 300 300 0 0 0-208.75-84.555 300 300 0 0 0-208.52 84.555 300 300 0 0 0-208.75-84.555z" fill="#ff80b2" filter="url(#g)"/>
+  <path transform="scale(.26458)" d="m431.36 270a150 150 0 0 0-150 150 150 150 0 0 0 150 150 150 150 0 0 0 150-150 150 150 0 0 0-150-150zm417.27 0a150 150 0 0 0-150 150 150 150 0 0 0 150 150 150 150 0 0 0 150-150 150 150 0 0 0-150-150z" fill="#ff80b2" filter="url(#h)"/>
+  <path transform="scale(.26458)" d="m222.73 70a250 250 0 0 0-250 250 250 250 0 0 0 250 250 250 250 0 0 0 208.64-112.48 250 250 0 0 0 208.64 112.48 250 250 0 0 0 208.64-112.48 250 250 0 0 0 208.64 112.48 250 250 0 0 0 250-250 250 250 0 0 0-250-250 250 250 0 0 0-208.58 112.39 250 250 0 0 0-208.69-112.39 250 250 0 0 0-208.58 112.39 250 250 0 0 0-208.69-112.39z" fill="#fac" filter="url(#i)"/>
+  <path transform="scale(.26458)" d="m431.36 320a100 100 0 0 0-100 100 100 100 0 0 0 100 100 100 100 0 0 0 100-100 100 100 0 0 0-100-100zm417.27 0a100 100 0 0 0-100 100 100 100 0 0 0 100 100 100 100 0 0 0 100-100 100 100 0 0 0-100-100z" fill="#fac" filter="url(#j)"/>
+  <path d="m58.93 31.75a52.917 52.917 0 0 0-52.917 52.917 52.917 52.917 0 0 0 52.917 52.917 52.917 52.917 0 0 0 52.917-52.917 52.917 52.917 0 0 0-52.917-52.917zm110.4 0a52.917 52.917 0 0 0-52.917 52.917 52.917 52.917 0 0 0 52.917 52.917 52.917 52.917 0 0 0 52.917-52.917 52.917 52.917 0 0 0-52.917-52.917zm110.4 0a52.917 52.917 0 0 0-52.917 52.917 52.917 52.917 0 0 0 52.917 52.917 52.917 52.917 0 0 0 52.917-52.917 52.917 52.917 0 0 0-52.917-52.917z" fill="#ffd5e5" filter="url(#k)"/>
+  <g fill="#f00" filter="url(#a)">
+   <circle cx="58.93" cy="84.667" r="39.688"/>
+   <circle cx="169.33" cy="84.667" r="39.688"/>
+   <circle cx="279.74" cy="84.667" r="39.688"/>
+  </g>
+  <g fill="#ffd5e5" filter="url(#b)">
+   <circle cx="114.13" cy="111.12" r="13.229"/>
+   <circle cx="224.54" cy="111.12" r="13.229"/>
+  </g>
+ </g>
+</svg>
