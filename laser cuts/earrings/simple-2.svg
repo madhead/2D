@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.897978mm"
+   height="24.612131mm"
+   viewBox="0 0 16.897978 24.612131"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="simple-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="4.7169022"
+     inkscape:cx="13.250222"
+     inkscape:cy="24.168404"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.3681287,-2.6939342)">
+    <g
+       id="g1"
+       transform="translate(4.3564583,0.1176523)">
+      <path
+         id="path1"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4.1866886,2.7085734 c -3.1201446,0 -3.29078897,0.066467 -3.65933923,5.9352034 C -0.58710898,26.390237 0.76883992,27.056122 4.1866886,27.056122 m 2e-7,-22.0019268 c -0.326648,0 -0.5914485,-0.2648005 -0.5914485,-0.5914485 0,-0.3266479 0.2648006,-0.5914484 0.5914485,-0.5914484"
+         sodipodi:nodetypes="csccsc" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path1"
+         id="use1"
+         transform="matrix(-1,0,0,1,8.3733772,0)" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1"
+       id="use2"
+       transform="rotate(180,12.817118,15)" />
+  </g>
+</svg>
